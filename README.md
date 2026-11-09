@@ -55,7 +55,7 @@
 </details>
 
 <details>
-<summary><b>👋 Say hello</b></summary>
+<summary><b>Hello</b></summary>
 <br/>
 
 <p align="center">
@@ -63,5 +63,3 @@
 </p>
 
 </details>
-
-<p align="center"><sub>Mohnish · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
